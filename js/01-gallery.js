@@ -36,4 +36,4 @@ function onClickShowBigImg(event) {
     }
   }
 }
-document.body.style.backgroundColor = "skyblue";
+// document.body.style.backgroundColor = "skyblue";
